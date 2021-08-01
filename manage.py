@@ -7,3 +7,5 @@ manager = Manager(app)
 if __name__ == "__main__":
     # app.config['SECRET_KEY'] = "test"
     manager.run()
+
+frist
